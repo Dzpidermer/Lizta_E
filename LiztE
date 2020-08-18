@@ -1,0 +1,68 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chavo del 8" tvg-logo="" group-title="24/7",El chavo del 8
+http://roedor.xyz/REGIO2O2O/mc.php?c=289&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="" group-title="24/7",Animaniacs
+http://roedor.xyz/REGIO2O2O/mc.php?c=279&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Sponja" tvg-logo="" group-title="24/7",Bob Sponja
+http://roedor.xyz/REGIO2O2O/mc.php?c=280&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="" group-title="24/7",Chespirito
+http://roedor.xyz/REGIO2O2O/mc.php?c=282&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="" group-title="24/7",Pokemon
+http://roedor.xyz/REGIO2O2O/mc.php?c=308&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dr House" tvg-logo="" group-title="24/7",Dr House
+http://roedor.xyz/REGIO2O2O/mc.php?c=284&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="" group-title="24/7",Dragon Ball
+http://roedor.xyz/REGIO2O2O/mc.php?c=286&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z" tvg-logo="" group-title="24/7",Dragon Ball Z
+http://roedor.xyz/REGIO2O2O/mc.php?c=288&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball GT" tvg-logo="" group-title="24/7",Dragon Ball GT
+http://roedor.xyz/REGIO2O2O/mc.php?c=285&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball SUPER" tvg-logo="" group-title="24/7",Dragon Ball SUPER
+http://roedor.xyz/REGIO2O2O/mc.php?c=287&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="" group-title="24/7",Futurama
+http://roedor.xyz/REGIO2O2O/mc.php?c=291&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="" group-title="24/7",La Pantera Rosa
+http://roedor.xyz/REGIO2O2O/mc.php?c=292&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Teoria Del Big Bang" tvg-logo="" group-title="24/7",La Teoria Del Big Bang
+http://roedor.xyz/REGIO2O2O/mc.php?c=293&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los 3 chiflados" tvg-logo="" group-title="24/7",Los 3 chiflados
+http://roedor.xyz/REGIO2O2O/mc.php?c=295&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Caballeros del Zodiaco" tvg-logo="" group-title="24/7",Los Caballeros del Zodiaco
+http://roedor.xyz/REGIO2O2O/mc.php?c=297&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Naruto" tvg-logo="" group-title="24/7",Naruto
+http://roedor.xyz/REGIO2O2O/mc.php?c=303&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="" group-title="24/7",Los Simpson
+http://roedor.xyz/REGIO2O2O/mc.php?c=300&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson 2" tvg-logo="" group-title="24/7",Los Simpson 2
+http://roedor.xyz/REGIO2O2O/mc.php?c=299&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Padre De Familia" tvg-logo="" group-title="24/7",Padre De Familia
+http://roedor.xyz/REGIO2O2O/mc.php?c=304&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Un Agente De Familia" tvg-logo="" group-title="24/7",Un Agente De Familia
+http://roedor.xyz/REGIO2O2O/mc.php?c=312&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | South Park" tvg-logo="" group-title="24/7",South Park
+http://roedor.xyz/REGIO2O2O/mc.php?c=310&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peliculas 2018" tvg-logo="" group-title="24/7",Peliculas 2018
+http://roedor.xyz/REGIO2O2O/mc.php?c=305&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | X-men" tvg-logo="" group-title="24/7",X-men
+http://roedor.xyz/REGIO2O2O/mc.php?c=314&f=.m3u8
+#EXTINF:-0 group-title="ALTERNOS", Nick Clasico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
+#EXTINF:-0 group-title="ALTERNOS", Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Tooncast
+http://roedor.xyz/REGIO2O2O/mc.php?c=110&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cartoon Network
+http://roedor.xyz/REGIO2O2O/mc.php?c=21&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Warner Channel
+http://roedor.xyz/REGIO2O2O/mc.php?c=102&f.m3u8
+#EXTINF:-1, UNIVERSAL HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=207&p=3&k=srregio&f=.m3u8
+#EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/7a/a3/03/7aa30340d24be809f2eb49203afaf379.jpg", Scoob  | REGIOFLIX
+http://regioflix.club/REGIO2020/090820po/Scoob.2020.1080p-dual-lat-cinecalidad.is.mp4
+#EXTINF:0 group-title="peliculas" tvg-logo="https://www.compucalitv.com/wp-content/uploads/2019/05/batman-tortugas-ninja-2019-hd-1080p-720p-latino-portada.jpg", Batman vs Tortujas Ninja | REGIOFLIX
+http://regioflix.club/REGIO2020/090820po/b4tm4nvst33n4g3mut4ntn1nj4turtl3s2019SRREGIO.mp4
+#EXTINF:-1 group-title="Canales 4 (MX)", DISNEY CHANNEL
+http://roedor.xyz/REGIO2O2O/tp.php?c=113&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peliculas 2018" tvg-logo="" group-title="24/7",Peliculas 2018
+http://roedor.xyz/REGIO2O2O/mc.php?c=305&f=.m3u8
