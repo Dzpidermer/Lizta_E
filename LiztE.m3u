@@ -50,17 +50,23 @@ http://www.toonxtv.net/hls/loco_ch/stream.m3u8
 http://roedor.xyz/REGIO2O2O/mc.php?c=110&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cartoon Network
 http://roedor.xyz/REGIO2O2O/mc.php?c=21&f.m3u8
+#EXTINF:-1 group-title="Canales 4 (MX)", DISNEY CHANNEL
+http://roedor.xyz/REGIO2O2O/mc.php?c=46&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nickelodeon
+http://roedor.xyz/REGIO2O2O/mc.php?c=124&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Warner Channel
 http://roedor.xyz/REGIO2O2O/mc.php?c=102&f.m3u8
 #EXTINF:-1, UNIVERSAL HD
 http://roedor.xyz/SrRegio-Ag/tp.php?c=207&p=3&k=srregio&f=.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",FX
+http://roedor.xyz/REGIO2O2O/mc.php?c=56&f.m3u8
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/7a/a3/03/7aa30340d24be809f2eb49203afaf379.jpg", Scoob  | REGIOFLIX
 http://regioflix.club/REGIO2020/090820po/Scoob.2020.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://www.compucalitv.com/wp-content/uploads/2019/05/batman-tortugas-ninja-2019-hd-1080p-720p-latino-portada.jpg", Batman vs Tortujas Ninja | REGIOFLIX
 http://regioflix.club/REGIO2020/090820po/b4tm4nvst33n4g3mut4ntn1nj4turtl3s2019SRREGIO.mp4
-#EXTINF:-1 group-title="Canales 4 (MX)", DISNEY CHANNEL
-http://roedor.xyz/REGIO2O2O/mc.php?c=46&f.m3u8
 #EXTINF:-1, group-title="Canales 4 (PE)", AMERICATV
 https://mdstrm.com/live-stream-playlist/5c51e67df4d3c6698b02bbee.m3u8?uid=EqC9jYKpjd1OuW2ocLiYst0auRmjl6pJ&sid=j7ZPJBdMp5XKCvE1wkh5quMbFIC72xGr&pid=FzjBmZpigNbPQlQST4QU74YHrwMUilDu&an=screen&at=web-app&av=v5.2.27&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F%3Fref%3Dibprd4&res=1140x641&dnt=true&access_token=Tp0yihbTFqYb1m52TpPR7uEUoKiOdGoanvnHSiUdulhmxXL0ytAACGJTXeyQXMSBp84tz1tMNU1
-#EXTINF:-1, group-title="Canales 7 (PE), "TV PERU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/41cmFbk.png",PANAMERICANA [360]
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1, group-title="Canales 7 (PE)", TV PERU
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
