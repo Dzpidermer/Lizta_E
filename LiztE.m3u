@@ -10,8 +10,6 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=280&f=.m3u8
 http://roedor.xyz/REGIO2O2O/mc.php?c=282&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="" group-title="24/7",Pokemon
 http://roedor.xyz/REGIO2O2O/mc.php?c=308&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dr House" tvg-logo="" group-title="24/7",Dr House
-http://roedor.xyz/REGIO2O2O/mc.php?c=284&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="" group-title="24/7",Dragon Ball
 http://roedor.xyz/REGIO2O2O/mc.php?c=286&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z" tvg-logo="" group-title="24/7",Dragon Ball Z
@@ -20,6 +18,8 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=288&f=.m3u8
 http://roedor.xyz/REGIO2O2O/mc.php?c=285&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball SUPER" tvg-logo="" group-title="24/7",Dragon Ball SUPER
 http://roedor.xyz/REGIO2O2O/mc.php?c=287&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Detective Conan" tvg-logo="https://1.bp.blogspot.com/-w8hEkOgZreY/XvbNSN5gC2I/AAAAAAAACO4/8BhhVRsxfxwr7HC2QD22VG_Q2WtvPVPIwCLcBGAsYHQ/s200/Detective%2BConan.png" group-title="CANALES 24/7",24/7 Detective Conan
+http://tvpremiumhd.club/lista-gratuita/213004/tv/live.php?id=38813
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="" group-title="24/7",Futurama
 http://roedor.xyz/REGIO2O2O/mc.php?c=291&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | La Teoria Del Big Bang" tvg-logo="" group-title="24/7",La Teoria Del Big Bang
@@ -32,18 +32,20 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=300&f=.m3u8
 http://roedor.xyz/REGIO2O2O/mc.php?c=299&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Padre De Familia" tvg-logo="" group-title="24/7",Padre De Familia
 http://roedor.xyz/REGIO2O2O/mc.php?c=304&f=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 American Dad" tvg-logo="https://1.bp.blogspot.com/-xoZ_jdVVOWY/XcsQ1RJ9svI/AAAAAAAAA0I/Fi-ECIKHZtMQ4p_onuYoi7dLOw7AjPIsQCLcBGAsYHQ/s200/American%2Bdad.png" group-title="CANALES 24/7",24/7 American Dad 
+http://tvpremiumhd.club/lista-gratuita/213004/tv/live.php?id=37860
 #EXTINF:-1,24/7: Batman The Animated Series
 http://portal-protv.club:8080/dragon/123456/43083
 #EXTINF:-1,24/7: The Amazing World Of Gumball
 http://portal-protv.club:8080/dragon/123456/43277
 #EXTINF:-1,24/7: The Twilight Zone
 http://portal-protv.club:8080/dragon/123456/43296
-#EXTINF:-1,24/7: Two And A Half Men
-http://portal-protv.club:8080/dragon/123456/43313
 #EXTINF:-1,24/7: X-MEN Animated Series
 http://portal-protv.club:8080/dragon/123456/43324
-#EXTINF:-1 group-title="Canales 4 (MX)", COMEDY CENTRAL SD
-http://roedor.xyz/REGIO2O2O/tp.php?c=341&p=3&k=srregio&f=.m3u8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM",Robot Chicken
+https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kru210h.png" group-title="24/7 ADULT SWIM",The Venture Bros.
+https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
 #EXTINF:-0 group-title="ALTERNOS", Nick Clasico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
 #EXTINF:0 tvg-id="ext" group-title="Infantil",Locomotion
