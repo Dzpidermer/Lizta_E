@@ -84,10 +84,10 @@ http://portal-protv.club:8080/dragon/123456/6274
 http://roedor.xyz/REGIO2O2O/mc.php?c=118|User-Agent=Android10
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",FX
 http://roedor.xyz/REGIO2O2O/mc.php?c=56&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Espanol
-http://roedor.xyz/REGIO2O2O/mc.php?c=14&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Internacional
-http://roedor.xyz/REGIO2O2O/mc.php?c=15&f.m3u8
+#EXTINF:-1,TNT
+http://experiencetv.zapto.org:25468/expertvcon/solofree/17
+#EXTINF:-1,TNT SERIES 
+http://experiencetv.zapto.org:25468/expertvcon/solofree/18
 #EXTINF:-1 tvg-id="" tvg-name="Jojo Rabbit (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5S9XtXSfSZg0G6ulZHQuzSF6DH.jpg" group-title="INFANTILES",Jojo Rabbit (2019)
 http://experiencetv.zapto.org:25468/movie/expertvcon/solofree/273.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Joker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0eQLbzT6sWelfApuYsEkYpzufl.jpg" group-title="DRAMA",Joker (2019)
