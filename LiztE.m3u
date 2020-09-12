@@ -1,7 +1,25 @@
 #EXTM3U
 
+#EXTINF:-1,Peru: Latina
+http://portal-protv.club:8080/dragon/123456/27247
+#EXTINF:-1,Peru: America Peru
+http://portal-protv.club:8080/dragon/123456/27257
+#EXTINF:-1 tvg-logo="https://i.imgur.com/41cmFbk.png",PANAMERICANA [360]
+https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFk087npiA3icy603Fc3d7Pk)/dm/3/x774s7s/s/live-3.m3u8
+#EXTINF:-1, group-title="Canales 7 (PE)", TV PERU
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1,VIP LAT: ATV (Peru)
+https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk5OTgzNjIwLCJzZXNzaW9uIjoiMTkwLjIzNC4xOTIuMTk0Iiwid2hpdGVsaXN0IjpbIjE5MC4yMzQuMTkyLjE5NCJdfSwic2lnbmF0dXJlIjoiOWI5MjRmNmYxYjM5YmEzN2RhZjRjY2Q1M2JkZDhlMzQ3NTU0MDhmMCJ9
+#EXTINF:-1,VIP LAT: ATV+ (Peru)
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk5OTgzNzEwLCJzZXNzaW9uIjoiMTkwLjIzNC4xOTIuMTk0Iiwid2hpdGVsaXN0IjpbIjE5MC4yMzQuMTkyLjE5NCJdfSwic2lnbmF0dXJlIjoiYmYxZjAwNTU5NjZkZWVkZTdhYzc1MWFmZWJlOTY5NjljNjA3OThlNiJ9
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Espanol
+http://roedor.xyz/REGIO2O2O/mc.php?c=14&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Internacional
+http://roedor.xyz/REGIO2O2O/mc.php?c=15&f.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | El chavo del 8" tvg-logo="" group-title="24/7",El chavo del 8
 http://roedor.xyz/REGIO2O2O/mc.php?c=289&f=.m3u8
+#EXTINF:-1,EL CHAPULIN COLORADO
+http://experiencetv.zapto.org:25468/expertvcon/solofree/133
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="" group-title="24/7",Animaniacs
 http://roedor.xyz/REGIO2O2O/mc.php?c=279&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Sponja" tvg-logo="" group-title="24/7",Bob Sponja
@@ -18,6 +36,12 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=288&f=.m3u8
 http://roedor.xyz/REGIO2O2O/mc.php?c=285&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball SUPER" tvg-logo="" group-title="24/7",Dragon Ball SUPER
 http://roedor.xyz/REGIO2O2O/mc.php?c=287&f=.m3u8
+#EXTINF:-1,SUPER CAMPEONES
+http://experiencetv.zapto.org:25468/expertvcon/solofree/107
+#EXTINF:-1,CABALLEROS DEL ZODIACO
+http://experiencetv.zapto.org:25468/expertvcon/solofree/153
+#EXTINF:-1,SOUTH PARK
+http://experiencetv.zapto.org:25468/expertvcon/solofree/108
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Detective Conan" tvg-logo="https://1.bp.blogspot.com/-w8hEkOgZreY/XvbNSN5gC2I/AAAAAAAACO4/8BhhVRsxfxwr7HC2QD22VG_Q2WtvPVPIwCLcBGAsYHQ/s200/Detective%2BConan.png" group-title="CANALES 24/7",24/7 Detective Conan
 http://tvpremiumhd.club/lista-gratuita/213004/tv/live.php?id=38813
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="" group-title="24/7",Futurama
@@ -32,32 +56,26 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=300&f=.m3u8
 http://roedor.xyz/REGIO2O2O/mc.php?c=299&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Padre De Familia" tvg-logo="" group-title="24/7",Padre De Familia
 http://roedor.xyz/REGIO2O2O/mc.php?c=304&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 American Dad" tvg-logo="https://1.bp.blogspot.com/-xoZ_jdVVOWY/XcsQ1RJ9svI/AAAAAAAAA0I/Fi-ECIKHZtMQ4p_onuYoi7dLOw7AjPIsQCLcBGAsYHQ/s200/American%2Bdad.png" group-title="CANALES 24/7",24/7 American Dad 
-http://tvpremiumhd.club/lista-gratuita/213004/tv/live.php?id=37860
-#EXTINF:-1,24/7: Batman The Animated Series
-http://portal-protv.club:8080/dragon/123456/43083
-#EXTINF:-1,24/7: The Amazing World Of Gumball
-http://portal-protv.club:8080/dragon/123456/43277
 #EXTINF:-1,24/7: The Twilight Zone
 http://portal-protv.club:8080/dragon/123456/43296
-#EXTINF:-1,24/7: X-MEN Animated Series
-http://portal-protv.club:8080/dragon/123456/43324
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZUg5vhn.png" group-title="24/7 ADULT SWIM",Robot Chicken
 https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/kru210h.png" group-title="24/7 ADULT SWIM",The Venture Bros.
 https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
-#EXTINF:-0 group-title="ALTERNOS", Nick Clasico
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
 #EXTINF:0 tvg-id="ext" group-title="Infantil",Locomotion
 http://www.toonxtv.net/hls/loco_ch/stream.m3u8
+#EXTINF:-0 group-title="ALTERNOS", Nick Clasico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.2.2-d60060c7283e0978cc63ba036956b5c1657f8eba&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=9daeec78-6a24-43e9-b800-df83d8e465a8&deviceLat=-35.1192&deviceLon=-60.5047&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=80.0.3987.149&includeExtendedEvents=false&sid=e2177d24-366a-4c1c-b974-702fe1d6159a&userId=&serverSideAds=true
+#EXTINF:-1,BOOMERANG
+http://experiencetv.zapto.org:25468/expertvcon/solofree/42
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nickelodeon
+http://roedor.xyz/REGIO2O2O/mc.php?c=124&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Tooncast
 http://roedor.xyz/REGIO2O2O/mc.php?c=110&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cartoon Network
 http://roedor.xyz/REGIO2O2O/mc.php?c=21&f.m3u8
 #EXTINF:-1 group-title="Canales 4 (MX)", DISNEY CHANNEL
 http://roedor.xyz/REGIO2O2O/mc.php?c=46&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Nickelodeon
-http://roedor.xyz/REGIO2O2O/mc.php?c=124&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Warner Channel
 http://roedor.xyz/REGIO2O2O/mc.php?c=102&f.m3u8
 #EXTINF:-1,VIP LAT: AXN
@@ -66,17 +84,15 @@ http://portal-protv.club:8080/dragon/123456/6274
 http://roedor.xyz/REGIO2O2O/mc.php?c=118|User-Agent=Android10
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",FX
 http://roedor.xyz/REGIO2O2O/mc.php?c=56&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Espanol
+http://roedor.xyz/REGIO2O2O/mc.php?c=14&f.m3u8
+#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Internacional
+http://roedor.xyz/REGIO2O2O/mc.php?c=15&f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jojo Rabbit (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5S9XtXSfSZg0G6ulZHQuzSF6DH.jpg" group-title="INFANTILES",Jojo Rabbit (2019)
+http://experiencetv.zapto.org:25468/movie/expertvcon/solofree/273.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Joker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0eQLbzT6sWelfApuYsEkYpzufl.jpg" group-title="DRAMA",Joker (2019)
+http://experiencetv.zapto.org:25468/movie/expertvcon/solofree/289.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://i.pinimg.com/originals/7a/a3/03/7aa30340d24be809f2eb49203afaf379.jpg", Scoob  | REGIOFLIX
 http://regioflix.club/REGIO2020/090820po/Scoob.2020.1080p-dual-lat-cinecalidad.is.mp4
 #EXTINF:0 group-title="peliculas" tvg-logo="https://www.compucalitv.com/wp-content/uploads/2019/05/batman-tortugas-ninja-2019-hd-1080p-720p-latino-portada.jpg", Batman vs Tortujas Ninja | REGIOFLIX
 http://regioflix.club/REGIO2020/090820po/b4tm4nvst33n4g3mut4ntn1nj4turtl3s2019SRREGIO.mp4
-#EXTINF:-1,Peru: Latina
-http://portal-protv.club:8080/dragon/123456/27247
-#EXTINF:-1,Peru: America Peru
-http://portal-protv.club:8080/dragon/123456/27257
-#EXTINF:-1 tvg-logo="https://i.imgur.com/41cmFbk.png",PANAMERICANA [360]
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1, group-title="Canales 7 (PE)", TV PERU
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1,VIP LAT: ATV (Peru)
-http://portal-protv.club:8080/dragon/123456/14375
