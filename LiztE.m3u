@@ -12,48 +12,46 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk5OTgzNjIwLCJzZXNzaW9uIjoiMTkwLjIzNC4xOTIuMTk0Iiwid2hpdGVsaXN0IjpbIjE5MC4yMzQuMTkyLjE5NCJdfSwic2lnbmF0dXJlIjoiOWI5MjRmNmYxYjM5YmEzN2RhZjRjY2Q1M2JkZDhlMzQ3NTU0MDhmMCJ9
 #EXTINF:-1,VIP LAT: ATV+ (Peru)
 https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTk5OTgzNzEwLCJzZXNzaW9uIjoiMTkwLjIzNC4xOTIuMTk0Iiwid2hpdGVsaXN0IjpbIjE5MC4yMzQuMTkyLjE5NCJdfSwic2lnbmF0dXJlIjoiYmYxZjAwNTU5NjZkZWVkZTdhYzc1MWFmZWJlOTY5NjljNjA3OThlNiJ9
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Espanol
-http://roedor.xyz/REGIO2O2O/mc.php?c=14&f.m3u8
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",CNN Internacional
-http://roedor.xyz/REGIO2O2O/mc.php?c=15&f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | El chavo del 8" tvg-logo="" group-title="24/7",El chavo del 8
-http://roedor.xyz/REGIO2O2O/mc.php?c=289&f=.m3u8
+#EXTINF:-1,CNN 
+http://experiencetv.zapto.org:25468/expertvcon/solofree/119
+#EXTINF:0 tvg-logo="https://i.imgur.com/G5KYULo.png" tvg-id="12" group-title="247" ,24/7 Chespirito M 
+http://m3ukodi.com/iptv/247_dic.php?v=chespirito
 #EXTINF:-1,EL CHAPULIN COLORADO
 http://experiencetv.zapto.org:25468/expertvcon/solofree/133
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Animaniacs" tvg-logo="" group-title="24/7",Animaniacs
 http://roedor.xyz/REGIO2O2O/mc.php?c=279&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Sponja" tvg-logo="" group-title="24/7",Bob Sponja
-http://roedor.xyz/REGIO2O2O/mc.php?c=280&f=.m3u8
+#EXTINF:-1,BOB ESPONJA
+http://experiencetv.zapto.org:25468/expertvcon/solofree/152
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Chespirito" tvg-logo="" group-title="24/7",Chespirito
 http://roedor.xyz/REGIO2O2O/mc.php?c=282&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="" group-title="24/7",Pokemon
-http://experiencetv.zapto.org:25468/expertvcon/solofree/111
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball" tvg-logo="" group-title="24/7",Dragon Ball
-http://roedor.xyz/REGIO2O2O/mc.php?c=286&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball Z" tvg-logo="" group-title="24/7",Dragon Ball Z
-http://roedor.xyz/REGIO2O2O/mc.php?c=288&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball GT" tvg-logo="" group-title="24/7",Dragon Ball GT
-http://roedor.xyz/REGIO2O2O/mc.php?c=285&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dragon Ball SUPER" tvg-logo="" group-title="24/7",Dragon Ball SUPER
-http://roedor.xyz/REGIO2O2O/mc.php?c=287&f=.m3u8
+#EXTINF:-1,DRAGON BALL
+http://experiencetv.zapto.org:25468/expertvcon/solofree/145
+#EXTINF:-1,DRAGON BALL Z
+http://experiencetv.zapto.org:25468/expertvcon/solofree/143
+#EXTINF:-1,DRAGON BALL SUPER
+http://experiencetv.zapto.org:25468/expertvcon/solofree/147
+#EXTINF:-1,DRAGON BALL GT
+http://experiencetv.zapto.org:25468/expertvcon/solofree/142
 #EXTINF:-1,SUPER CAMPEONES
 http://experiencetv.zapto.org:25468/expertvcon/solofree/107
 #EXTINF:-1,CABALLEROS DEL ZODIACO
 http://experiencetv.zapto.org:25468/expertvcon/solofree/153
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="" group-title="24/7",Pokemon
+http://experiencetv.zapto.org:25468/expertvcon/solofree/111
 #EXTINF:-1,SOUTH PARK
 http://experiencetv.zapto.org:25468/expertvcon/solofree/108
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Detective Conan" tvg-logo="https://1.bp.blogspot.com/-w8hEkOgZreY/XvbNSN5gC2I/AAAAAAAACO4/8BhhVRsxfxwr7HC2QD22VG_Q2WtvPVPIwCLcBGAsYHQ/s200/Detective%2BConan.png" group-title="CANALES 24/7",24/7 Detective Conan
 http://tvpremiumhd.club/lista-gratuita/213004/tv/live.php?id=38813
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="" group-title="24/7",Futurama
-http://roedor.xyz/REGIO2O2O/mc.php?c=291&f=.m3u8
+#EXTINF:-1,FUTURAMA
+http://experiencetv.zapto.org:25468/expertvcon/solofree/130
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | La Teoria Del Big Bang" tvg-logo="" group-title="24/7",La Teoria Del Big Bang
 http://roedor.xyz/REGIO2O2O/mc.php?c=293&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Los 3 chiflados" tvg-logo="" group-title="24/7",Los 3 chiflados
 http://roedor.xyz/REGIO2O2O/mc.php?c=295&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="" group-title="24/7",Los Simpson
 http://roedor.xyz/REGIO2O2O/mc.php?c=300&f=.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson 2" tvg-logo="" group-title="24/7",Los Simpson 2
-http://roedor.xyz/REGIO2O2O/mc.php?c=299&f=.m3u8
+#EXTINF:-1,SIMPSONS TEMP 6-11
+http://experiencetv.zapto.org:25468/expertvcon/solofree/305
 #EXTINF:-1 tvg-id="" tvg-name="24/7 | Padre De Familia" tvg-logo="" group-title="24/7",Padre De Familia
 http://roedor.xyz/REGIO2O2O/mc.php?c=304&f=.m3u8
 #EXTINF:-1,24/7: The Twilight Zone
@@ -74,20 +72,24 @@ http://roedor.xyz/REGIO2O2O/mc.php?c=124&f.m3u8
 http://roedor.xyz/REGIO2O2O/mc.php?c=110&f.m3u8
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Cartoon Network
 http://roedor.xyz/REGIO2O2O/mc.php?c=21&f.m3u8
-#EXTINF:-1 group-title="Canales 4 (MX)", DISNEY CHANNEL
-http://roedor.xyz/REGIO2O2O/mc.php?c=46&f.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://experiencetv.zapto.org:25468/expertvcon/solofree/53
 #EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Warner Channel
 http://roedor.xyz/REGIO2O2O/mc.php?c=102&f.m3u8
 #EXTINF:-1,VIP LAT: AXN
 http://portal-protv.club:8080/dragon/123456/6274
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",Studio Universal
-http://roedor.xyz/REGIO2O2O/mc.php?c=118|User-Agent=Android10
-#EXTINF:-1 tvg-logo="http://REGIO2O2O/img/img.php" group-title="Canales 1",FX
-http://roedor.xyz/REGIO2O2O/mc.php?c=56&f.m3u8
+#EXTINF:-1,SPACE
+http://experiencetv.zapto.org:25468/expertvcon/solofree/7
+#EXTINF:-1,FOX COMEDY
+http://experiencetv.zapto.org:25468/expertvcon/solofree/144
+#EXTINF:-1,FOX LIFE
+http://experiencetv.zapto.org:25468/expertvcon/solofree/10
+#EXTINF:-1,FOX CHANEL
+http://experiencetv.zapto.org:25468/expertvcon/solofree/12
+#EXTINF:-1,STUDIO UNIVERSAL
+http://experiencetv.zapto.org:25468/expertvcon/solofree/16
 #EXTINF:-1,TNT
 http://experiencetv.zapto.org:25468/expertvcon/solofree/17
-#EXTINF:-1,TNT SERIES 
-http://experiencetv.zapto.org:25468/expertvcon/solofree/18
 #EXTINF:-1 tvg-id="" tvg-name="Jojo Rabbit (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m5S9XtXSfSZg0G6ulZHQuzSF6DH.jpg" group-title="INFANTILES",Jojo Rabbit (2019)
 http://experiencetv.zapto.org:25468/movie/expertvcon/solofree/273.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Joker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0eQLbzT6sWelfApuYsEkYpzufl.jpg" group-title="DRAMA",Joker (2019)
